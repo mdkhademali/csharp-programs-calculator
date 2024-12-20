@@ -13,3 +13,6 @@ This is a simple console-based calculator program written in C#. It supports bas
 - Allows the user to choose an operation (addition, subtraction, multiplication, division).
 - Handles division by zero gracefully with an error message.
 - Provides real-time input validation for numbers.
+
+## Copyright
+© mdkhademali
